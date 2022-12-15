@@ -29,3 +29,11 @@ Java                            15            407            497           1547
 SUM:                            15            407            497           1547
 -------------------------------------------------------------------------------
 ```
+
+## Update
+
+[Original repository](https://github.com/trev1996x/Monopoly)
+
+IT 178 Professor Dr. Tonya Pierce gave the OK on publishing this project.
+
+See [LICENSE](https://github.com/tyqualters/Monopoly/blob/main/LICENSE) for licensing information.
